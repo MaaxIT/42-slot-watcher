@@ -22,7 +22,7 @@ You will receive desktop notifications as soon as new slots has been detected.
 2. Run ``brew update`` to make sure Homebrew is up-to-date.
 3. Run ``brew install node`` to install NodeJS & npm.
 4. Open a new terminal in order to have the PATH correctly updated.
-4. Run ``npm --v`` and ``node -v`` to make sure the installation was successfull.
+4. Run ``npm --v`` and ``node -v`` to make sure the installation was successful.
 
 ---
 
